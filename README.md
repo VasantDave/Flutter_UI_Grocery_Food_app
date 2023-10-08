@@ -1,10 +1,9 @@
-# Flutter_UI for food app
-![healthy food](https://github.com/VasantDave/Flutter_UI/assets/142881259/0f915d46-73b3-4905-9cc2-8c43a7a110d1)
+# Flutter_UI for Grocery App
 
-**Flutter representation of a Purchase food related products app UI**
+**Flutter representation of a Purchase Grocery related products app UI**
 
 # This application UI is not completed yet. Currently, I am working on it.
-A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
+A small attempt to make an Purchase Grocery app user interface in Flutter for Android and iOS.
 
 # ✨ Requirements
 
